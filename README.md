@@ -1,8 +1,7 @@
-# -
-大数据舆情分析
+# 大数据舆情分析
 
 # 📊 大数据舆情智能分析系统
-![GitHub Stars](https://img.shields.io/github/stars/kristen1225/大数据舆情分析系统?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/kristen1225/-?style=social)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 
 ## 🌐 项目背景
