@@ -1,7 +1,7 @@
 # 大数据舆情分析
 
 # 📊 大数据舆情智能分析系统
-![GitHub Stars](https://img.shields.io/github/stars/kristen1225/-?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/kristen1225/Big-Data-Sentiment-Analysis?style=social)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 
 ## 🌐 项目背景
@@ -28,7 +28,7 @@
 ### 三步启动
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/Big-Data-Public-Opinion.git
+git clone https://github.com/kristen1225/Big-Data-Sentiment-Analysis.git
 
 # 2. 安装依赖
 pip install -r requirements.txt
@@ -39,9 +39,18 @@ python main.py --mode=real_time
 
 ---
 
+### 常见问题排查
+| 问题现象               | 解决方案                              |
+|------------------------|--------------------------------------|
+| 图片显示为裂图         | 检查链接是否包含`/raw/`路径           |
+| 图片过大影响加载       | 压缩图片至宽度≤1200px，使用[TinyPNG](https://tinypng.com) |
+| 需要动态GIF演示        | 使用[ScreenToGif](https://www.screentogif.com)录制操作流程 |
+
+---
+
 ## 📈 效果演示
-![舆情监控看板](https://i.imgur.com/9QZbKlE.png)  
-*实时舆情热力地图与情感分布饼图*
+![舆情分析看板](https://i.imgur.com/example-image.png）
+
 ---
 
 ## 🤝 参与贡献
